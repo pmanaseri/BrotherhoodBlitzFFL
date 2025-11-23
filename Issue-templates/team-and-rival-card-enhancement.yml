@@ -1,0 +1,48 @@
+name: Team & Rival Card Enhancement
+description: Suggest an improvement or new feature for the Team & Rival Card system.
+title: "[TRC Enhancement]: "
+labels:
+  - "Team & Rival Card: enhancement"
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: Briefly describe the enhancement.
+      placeholder: "What do you want to change or add?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Motivation
+      description: Why is this useful? What problem does it solve?
+      placeholder: "This helps because..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: Describe how you’d like this to work.
+      placeholder: "When X happens, the app should Y..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Any other ideas or approaches you thought about.
+    validations:
+      required: false
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Additional context
+      description: Designs, mockups, screenshots, or extra notes.
+    validations:
+      required: false
