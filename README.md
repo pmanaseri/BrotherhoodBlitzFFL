@@ -1,4 +1,6 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ca3cabb7-7963-4326-91db-f0f798660986" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ca3cabb7-7963-4326-91db-f0f798660986" width="100%">
+</p>
 
 
 
