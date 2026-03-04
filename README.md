@@ -226,7 +226,7 @@ label:"Banner: bug",
 ```
 
 
-
+```
 TASK                                  MAR  APR  MAY  JUN  JUL  AUG
 ────────────────────────────────────────────────────────────────────
 Backend Architecture Re-Design        ████
