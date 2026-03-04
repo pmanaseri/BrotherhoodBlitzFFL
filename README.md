@@ -223,6 +223,9 @@ Each area view filters by its area labels, e.g.:
 label:"Banner: bug",
 "Banner: enhancement",
 "Banner: question"
+```
+
+
 
 TASK                                  MAR  APR  MAY  JUN  JUL  AUG
 ────────────────────────────────────────────────────────────────────
