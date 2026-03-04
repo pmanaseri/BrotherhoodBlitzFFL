@@ -1,6 +1,6 @@
 # 🏈 BrotherhoodBlitzFFL
 
-**Brotherhood Blitz FFL** is your commissioner-grade fantasy football control center — one place to track teams, rivals, trades, drafts, rosters, and all the chaos in between.
+**Brotherhood Blitz FFL** is your commissioner grade fantasy football control center - one place to track teams, rivals, trades, drafts, rosters, and all the chaos in between.
 
 This repo powers the league backend/frontend (and all the admin workflows) for the **Brotherhood Blitz Fantasy Football League**.
 
