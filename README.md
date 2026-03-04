@@ -223,3 +223,24 @@ Each area view filters by its area labels, e.g.:
 label:"Banner: bug",
 "Banner: enhancement",
 "Banner: question"
+
+TASK                                  MAR  APR  MAY  JUN  JUL  AUG
+────────────────────────────────────────────────────────────────────
+Backend Architecture Re-Design        ████
+Old Code / Plugin Cleanup             ████
+
+Banner Integration                          ████
+WordPress Profile Cleanup                   ████
+
+Teamcard + Rival Integration                     ████
+Profile Drip Card                                 ████
+
+Salary Dashboard                                        ████
+
+Roster Card                                                 ████
+
+Trade Block                                                      ████
+Transactions                                                     ████
+Draft Board                                                      ████
+
+Website Buildout / Polish                                             ████
