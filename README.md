@@ -1,3 +1,7 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ca3cabb7-7963-4326-91db-f0f798660986" />
+
+
+
 # 🏈 BrotherhoodBlitzFFL
 
 **Brotherhood Blitz FFL** is your commissioner grade fantasy football control center - one place to track teams, rivals, trades, drafts, rosters, and all the chaos in between.
@@ -224,26 +228,3 @@ label:"Banner: bug",
 "Banner: enhancement",
 "Banner: question"
 ```
-
-
-```
-TASK                                  MAR  APR  MAY  JUN  JUL  AUG
-────────────────────────────────────────────────────────────────────
-Backend Architecture Re-Design        ████
-Old Code / Plugin Cleanup             ████
-
-Banner Integration                          ████
-WordPress Profile Cleanup                   ████
-
-Teamcard + Rival Integration                     ████
-Profile Drip Card                                 ████
-
-Salary Dashboard                                        ████
-
-Roster Card                                                 ████
-
-Trade Block                                                      ████
-Transactions                                                     ████
-Draft Board                                                      ████
-
-Website Buildout / Polish                                             ████
